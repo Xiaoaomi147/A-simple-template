@@ -1,0 +1,23 @@
+.login_bg{
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    .login_middle_bg{
+        background: #ccc;
+        height: 70vh;
+        position: relative;
+        top:15vh;
+        position: relative;
+        .login_ing{
+            width: 260px;
+            height: 200px;
+            background: yellow;
+            position: absolute;
+            left:0;
+            top:0;
+            right:0;
+            bottom: 0;
+            margin:auto;
+        }
+    }
+}
